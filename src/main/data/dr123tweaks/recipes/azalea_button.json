@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "dr123tweaks:azalea_planks"
+    }
+  ],
+  "result": {
+    "item": "dr123tweaks:azalea_button"
+  }
+}
