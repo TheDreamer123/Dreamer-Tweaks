@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dr123tweaks:azalea_planks"
+    }
+  },
+  "result": {
+    "item": "dr123tweaks:azalea_boat"
+  }
+}
