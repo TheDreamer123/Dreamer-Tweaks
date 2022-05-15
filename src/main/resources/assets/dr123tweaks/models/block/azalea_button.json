@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "dr123tweaks:block/azalea_planks"
+  }
+}

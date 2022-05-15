@@ -1,0 +1,9 @@
+{
+   "entity.brick.throw":{
+      "replace":true,
+      "subtitle": "subtitles.entity.brick.throw",
+      "sounds":[
+         "random/bow"
+      ]
+   }
+}

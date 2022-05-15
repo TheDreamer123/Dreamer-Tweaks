@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "dr123tweaks:block/azalea_planks",
+    "top": "dr123tweaks:block/azalea_planks",
+    "side": "dr123tweaks:block/azalea_planks"
+  }
+}

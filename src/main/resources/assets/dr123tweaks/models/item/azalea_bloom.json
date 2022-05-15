@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dr123tweaks:block/azalea_bloom"
+  }
+}

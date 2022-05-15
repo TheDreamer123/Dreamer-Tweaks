@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "dr123tweaks:block/azalea_pressure_plate"
+    },
+    "powered=true": {
+      "model": "dr123tweaks:block/azalea_pressure_plate_down"
+    }
+  }
+}
